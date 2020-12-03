@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hello! Nice to meet you! 👋
 
-<!--
-**Wrennny/Wrennny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## I'm ✨Wren Pacheco✨
 
+- 🌱 I’m currently learning more on Git and Github
+- 😄 Pronouns: Her/She
+- ⚡ Fun fact: 
+- You can find me on LinkedIn.
+
+<--!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
